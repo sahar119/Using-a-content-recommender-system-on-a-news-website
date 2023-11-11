@@ -1,6 +1,6 @@
 # <h1 align="center">Using a content recommender system on a news website</h1>
 
-## <h3 align="center">The aim is to provide a multi-menu crime website with Python and Streamlit. </h3>
+## <h3 align="center">The aim is to provide a content recommendation system that suggests comic content instead of negative and criminal content. </h3>
 ---
 
 ### <h3 align="left">Tools and Libraries used</h3>
