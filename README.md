@@ -6,6 +6,7 @@
 ### <h3 align="left">How does it work</h3>
 ---
 A news data set was downloaded. To evaluate how the dataset's content is negative, after cleaning, sentiment analysis was done.
+
  ![News sentiment analysis GIF](/images/sentiment.png)
 
 
