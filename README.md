@@ -27,4 +27,4 @@ Once users click on the read more button to read the full text of the negative n
 
 ### <h3 align="left">Project Demo</h3>
 ---
-![Demo GIF]()
+![Demo GIF](https://github.com/sahar119/Using-a-content-recommender-system-on-a-news-website/blob/main/gif5.gif)
